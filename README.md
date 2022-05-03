@@ -6,7 +6,7 @@ There will also be a video to explain visually what is in the tutorial.
 ## Authors
 Created in april/may 2022 by Duvivier Hugo, Detrait Romain and Walid Kameche (group 4), three students from UMONS Faculty of Engineering (https://web.umons.ac.be/fpms/fr/).
 You may contact us via our mail adress: 
-- DUVIVIER.HUGO@umons.ac.be
-- DETRAIT.ROMAIN@umons.ac.be 
-- WALID.KAMECHE@umons.ac.be.
+- DUVIVIER.HUGO@student.umons.ac.be
+- DETRAIT.ROMAIN@student.umons.ac.be 
+- WALID.KAMECHE@student.umons.ac.be.
 
